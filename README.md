@@ -1,4 +1,4 @@
-# clinics
+# Eyadti
 
 A new Flutter project.
 
